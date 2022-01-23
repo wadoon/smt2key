@@ -1,0 +1,5 @@
+(executable
+ (public_name smt2key)
+ (name main)
+ (libraries sexplib pprint)
+ (flags (:standard -w -33)))
